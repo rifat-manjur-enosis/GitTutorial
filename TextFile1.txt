@@ -1,4 +1,5 @@
 tutorial edits first line
+tutorial 3 fixes important bug
 Hello World!
 This is a second Line.
 
