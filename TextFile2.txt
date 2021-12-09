@@ -1,4 +1,4 @@
 some info!
 
 tutorial 3 is editing ....
-tutorial 3 also edits last line of file2
+both edits here
